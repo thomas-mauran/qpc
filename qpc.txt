@@ -1,13 +1,13 @@
-Un homme heureux:William Sheller
-Lawrence Alloway: 1950:Popart
+William Sheller:Un homme heureux
+Lawrence Alloway:1950, Popart
 Michel Houellebecq:particules élémentaires
 Greta Garbo:actrice suédoise
-Isabelle Autissier:née en 1956 première femme tour du monde solitaire:présidente WWF
-Séléné déesse de la lune
+Isabelle Autissier:née en 1956 première femme tour du monde solitaire, présidente WWF
+Séléné:déesse de la lune
 Schopenhauer:pessimisme
 L’autruche / l’émeu:oiseau qui ne vole pas
 Presbourg:Bratislava
-Montagne bleue:café le plus réputé au monde:Jamaïque
+Montagne bleue:café le plus réputé au monde, Jamaïque
 Nadar:Photographe français 1820:Selfie Félix Tournachon
 Jeanne d’arc:cahiers de la quinzaine:Charles Péguy
 Alphonse Allais:Café 1881
@@ -23,7 +23,7 @@ Saint Véran:plus haute commune d’Europe 3175 mètres
 Douma:assemblée russe
 Ballesteros:Golfeur
 Émile Littré:Dictionnaire le Littré 1801 1881
-Si l’on peut en finir du passé avec l’oubli, on n’en finit pas de l’avenir avec l’imprévoyance:Félicité Robert de Lamennais
+Félicité Robert de Lamennais:Si l’on peut en finir du passé avec l’oubli, on n’en finit pas de l’avenir avec l’imprévoyance
 Fleuve Niger:Tombouctou, 3ème plus grand fleuve m
 Eugène Boudin:Honfleur
 Lato sensu:contraire Stricto sensu
@@ -160,7 +160,7 @@ Muriel Barbery:l'élégance du hérisson (histoire d'une concierge qui a une cul
 Maltais Hobereau Pèlerin:Faucons les plus connus 3
 Niniche:sucette chaude spécialité de Quibron
 Laurel et Hardy:1927, "La bataille du siècle"
-Cédric Klapisch = "poupées russes" Film
+Cédric Klapisch:"poupées russes" Film
 Newar:Katmandou
 Gouffre de Padirac:Dans le Lot, découverte il y a 130 ans
 Gaspard Monge:Mathématicien français 18ème siècle
