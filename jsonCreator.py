@@ -9,18 +9,19 @@ url = 'http://localhost:7512/qpc/questions/_create'
 
 lines = file.readlines()
 
-i = 0
+i = 1
 for l in lines: 
     text = l.split(':')
 
     
     jsonLine = {
-        "question": text[0],
-        "answer": text[1]
+        "id": i,
+        "question": text[1],
+        "answer": text[0]
     }
     # jsonFile.write(json.dumps(jsonLine))
     response = requests.post(url, jsonLine)
-    print(response)
+    i+= 1
 
 
 # jsonFileRead = open('questionJson.json', 'r')

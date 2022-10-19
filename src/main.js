@@ -1,5 +1,10 @@
-import { createApp } from 'vue'
-import './style.css'
-import App from './App.vue'
+import { createApp } from 'vue';
+import './style.css';
+// import { createRouter, createWebHistory } from 'vue-router';
 
-createApp(App).mount('#app')
+import kuzzle from './services/kuzzle';
+
+// Vues pages
+import App from './vues/App.vue';
+
+createApp(App).mount('#app');
