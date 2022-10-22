@@ -9,6 +9,7 @@ let inputAnswer = ref('');
 let question = ref('');
 let answer = ref('');
 let answerTab = ref(null);
+let wikiArticle = ref('https://fr.wikipedia.org/wiki/');
 
 let answerIsTrue = ref(null);
 
@@ -28,6 +29,8 @@ async function retrieveData() {
     question.value = questionQuery.hits[0]._source.question;
     answer.value = questionQuery.hits[0]._source.answer;
     answerTab.value = answer.value.split('/');
+
+    wikiArticle.value += answerTab.value[0].replaceAll(' ', '_');
 }
 
 // Fonction pour comparer l'input et la liste de réponses
@@ -63,6 +66,7 @@ onMounted(() => {
 });
 
 function nextQuestion() {
+    wikiArticle.value = 'https://fr.wikipedia.org/wiki/';
     question.value = '';
     answer.value = '';
     answerIsTrue.value = null;
@@ -82,13 +86,14 @@ document.addEventListener('keydown', (key) => {
 </script>
 
 <template>
-    <div>
+    <main>
         <h1>{{ question }}</h1>
         <h2 v-if="answerIsTrue" class="rightAnswer">Correct answer</h2>
         <h2 v-if="answerIsTrue == false" class="wrongAnswer">Wrong answer</h2>
+        <iframe v-if="answerIsTrue != null" :src="wikiArticle"></iframe>
 
         <div v-if="answerIsTrue != null">
-            <h2>Answer : {{ answer }}</h2>
+            <h2 class="answer">Answer : {{ answer }}</h2>
             <button @click="nextQuestion">Next question</button>
         </div>
         <div v-if="answerIsTrue == null">
@@ -100,18 +105,32 @@ document.addEventListener('keydown', (key) => {
             />
             <button @click="checkAnswer">Check</button>
         </div>
-    </div>
+    </main>
 </template>
 
 <style scoped>
+iframe {
+    min-width: 500px;
+    width: 80%;
+    height: 50vh;
+}
 .input {
     font-size: 2em;
 }
 
 .rightAnswer {
-    color: green;
+    color: white;
+    background-color: green;
 }
 .wrongAnswer {
-    color: red;
+    color: white;
+    background: red;
+    margin: 20px 40vh;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.answer {
+    font-size: 2em;
 }
 </style>

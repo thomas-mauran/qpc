@@ -24,7 +24,7 @@ Douma:assemblée russe
 Ballesteros:Golfeur
 Émile Littré:Dictionnaire le Littré 1801 1881
 Félicité Robert de Lamennais:Si l’on peut en finir du passé avec l’oubli, on n’en finit pas de l’avenir avec l’imprévoyance
-Fleuve Niger:Tombouctou, 3ème plus grand fleuve m
+Fleuve Niger:Tombouctou, 3ème plus grand fleuve 
 Eugène Boudin:Honfleur
 Lato sensu:contraire Stricto sensu
 Françoise Dolto:Médecin Hôpital Trousseau
@@ -65,7 +65,6 @@ Loup cercler:Lynx autre nom
 Chris Evert:5 Rolland Garros d’affilés
 François Mansard:Principal précurseur de l’architecture classique en France 1598-1666
 Timbuktu:film mauritanien 2014
-Abderrahmane Sissako:
 Irène Joliot-Curie:1897 physicienne, institut radium (fille de marie curie)
 Diane de Poitiers:Favorite numéro 1 (Henri 2)
 Théophile Gautier:Mademoiselle de Maupin, livre 19ème, homme travesti
@@ -79,7 +78,7 @@ Jean Baptiste Pigalle:Sculpteur 1714-1785
 Jean de Bruhnoff:inventeur de Babar 1899-1937, Inventeur suisse
 Oscar Niemeyer:architecte brésilien 1907-2012
 David Ben Gourion:indépendance de l’Israel en 1948
-1942:USA vs Japon bataille de midway
+1942:Date USA vs Japon bataille de midway
 Charles Garnier:1861, opéra de paris
 Henri de Toulouse-Lautrec:peintre Albi
 Joseph Marie Jacquard:Métier à tisser mécanique inventeur
@@ -113,7 +112,7 @@ Jean Claude Killy:double champion du monde 1966, Triple médaille d’or JO Gren
 Roche de Solutré:1866 Saône et Loire, découverte d’un silex taillé
 Roger Gicquel:« La France a peur »
 John Nash:prix Nobel 1994 Mathématicien incroyable prix Abel
-Studios de la Victorine Nice:Cinéma important
+Studios de la Victorine Nice:Studio cinéma important
 Willy Roentgen:A découvert des rayons X, Allemande
 Irène Némirovsky:seul Titre Posthume du Renaudot, Romancière Russel
 Mercator:Créateur de carrés allemand 16ème siecle
@@ -228,7 +227,7 @@ Mirepoix:mélange légumes lardons , nom d'un duc
 Dame Brassempouy:Village des Landes ou se situe cette vénus
 Rohmer / Truffaut / Godard:Réalisateurs nouvelle vague:
 Style manuélain:Architecture portugaise, comparable au style baroque, très ornée et riche
-Hokusai / Hiroshige: trigger:estampe / 2 peintres japonais incroyables
+Hokusai / Hiroshige: trigger estampe / 2 peintres japonais incroyables
 Ménélas:Roi de Sparte
 Emir d'Hamadan:Avicenne
 Angelin Preljocaj:Chorégraphe Franco Albanais
@@ -309,7 +308,7 @@ Lily Laskine:Harpiste début 20eme
 Mnémosyne:déesse de la Mémoire, fille d'Ouranos et de Gaïa
 Barbier de seville:Opéra, Rossinni (écrivain Beaumarchais)
 Sonja Henie:Patineuse norvégienne, championne olympique
-Muller / Rastapopoulos: méchants dans Tintin (2)
+Rastapopoulos / Muller : méchants dans Tintin (2)
 Robert Palmer:every kinda people 1978
 François Villon:La Ballade des pendus est le poème le plus connu.
 Ibsen:Ecrivain norvégien 19eme siècle, Maison de poupée
@@ -419,7 +418,7 @@ Renzo Piano:architecte italien 2006 coté internationale de Lyon
 2009:Danny Boyle film
 Mario Vergiasosa:Écrivain péruvien
 Balmoral:chateau écosse
-Liquidambar:arbre
+Liquidambar:arbre feuilles caduques de la famille des altingiacées
 Blanche Dubois:Un tramway nommé désir
 Charles Gerhardt:aspirine
 Valérie Giscard d'Estaing: Ministre finance
